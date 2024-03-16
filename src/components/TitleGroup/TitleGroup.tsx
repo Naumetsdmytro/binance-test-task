@@ -12,7 +12,6 @@ const Title = styled.h1`
     font-family: 'Orbitron', sans-serif;
     color: #e94560;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    margin-bottom: 20px;
 `;
 
 export const TitleGroup = () => {

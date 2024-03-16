@@ -9,7 +9,7 @@ const ExchangeInterfaceContainer = styled.div`
     background-color: #16213e;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-    width: 100%;
+    width: calc(100% - 40px);
     max-width: 500px;
     margin: 60px auto;
     padding: 40px 20px;
