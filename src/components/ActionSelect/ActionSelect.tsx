@@ -31,7 +31,7 @@ const Select = styled.select`
 const CustomArrow = styled.div`
     position: absolute;
     top: 0;
-    right: 0;
+    right: 15px;
     bottom: 0;
     width: 20px;
     background: #0f3460;
